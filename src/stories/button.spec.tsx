@@ -12,13 +12,11 @@ sbTest.describe('Button', () => {
   });
 });
 
-/*
-Works
+
+// Works:
 
 // test.describe('Button', () => {
 //   test('Primary', async ({ mount }) => {
 //     await mount(<AllStories.Primary onClick={() => {}} />);
 //   });
 // });
-
-*/
